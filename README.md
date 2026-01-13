@@ -1,6 +1,10 @@
 # PovertyPrediction
 
 ### Machine Learning Algorithms
+Here are the three machine learning algorithms that I chose to compare, before training any Neural Network:
+* **Linear Regressor**
+* **Random Forest Regressor**
+* **XGBoost Regressor**
 
 
 ### Results Table
