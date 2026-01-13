@@ -4,10 +4,13 @@
 
 
 ### Results Table
+Below is the score table for the validation dataset before fine-tuning.
 
-| Model               | MSE      | R2 Score  | MAPE   |
+| Model               | RMSE      | R²  | wMAPE   |
 |---------------------|----------|-----------|--------|
-| Linear Regressor    | 0.85     | 0.83      | 0.81   |
-| Random Forest Regressor   | 0.88     | 0.87      | 0.85   |
-| XGBoost Regressor   | 0.91     | 0.90      | 0.89   |
-| Neural Network      | **0.93** | **0.92**  | **0.91** |
+| Linear Regressor    |   6.972   |    0.516   |   0.467 |
+| Random Forest Regressor   |  7.040    |   0.506    |  0.448  |
+| XGBoost Regressor   |  4.536    |  0.795     |  0.282  |
+| Neural Network      |  |   |  |
+
+
